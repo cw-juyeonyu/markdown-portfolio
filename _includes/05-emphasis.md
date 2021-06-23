@@ -1,2 +1,2 @@
 ✨ Kotlin
-south korea is absent.
+**Why _south korea_ emoji is absent.**
